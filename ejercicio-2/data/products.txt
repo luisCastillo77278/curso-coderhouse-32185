@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "73ca8d63-0965-4b25-b3b9-d7b90e38c627",
+    "title": "tenis nike",
+    "price": 150,
+    "thumbnail": "nike.png"
+  },
+  {
+    "id": "cec9aca1-f445-47eb-be5f-27b40aae818d",
+    "title": "tenis pumas",
+    "price": 140.5,
+    "thumbnail": "pumas.png"
+  },
+  {
+    "id": "c61e97b9-4ad3-40c4-b480-d58c0b9a38ba",
+    "title": "jersey barcelona",
+    "price": 120.6,
+    "thumbnail": "barcelona.png"
+  }
+]
